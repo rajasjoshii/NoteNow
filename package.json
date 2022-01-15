@@ -1,0 +1,17 @@
+{
+  "name": "notenow.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/index.js"
+  },
+  "author": "Rajas Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^12.0.3",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
